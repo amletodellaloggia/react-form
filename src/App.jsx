@@ -23,6 +23,9 @@ const App = () => {
           className="form-control"
           placeholder="Nuovo articolo..."
         />
+        <button type="submit" className="btn btn-primary">
+          Aggiungi
+        </button>
       </form>
     </div>
   );
